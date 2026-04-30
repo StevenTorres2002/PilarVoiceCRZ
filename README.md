@@ -1,2 +1,2 @@
 # PilarVoiceCRZ
-This is a test for a voice generator based on 
+This is a test for a voice generator based on omnivoice
